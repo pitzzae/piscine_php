@@ -1,0 +1,1 @@
+DELETE FROM `db_gtorresa`.`ft_table` WHERE 1 LIMIT 5;

@@ -1,0 +1,1 @@
+SELECT `titre`, `resum` FROM `db_gtorresa`.`film` WHERE lower(`resum`) LIKE '%vincent%' ORDER BY `id_film` ASC

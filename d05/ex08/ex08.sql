@@ -1,0 +1,1 @@
+SELECT `nom`, `prenom`, YEAR(`date_naissance`) FROM `db_gtorresa`.`fiche_personne` WHERE YEAR(`date_naissance`) = '1989' ORDER BY `fiche_personne`.`nom` ASC

@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM `db_gtorresa`.`film` WHERE `film`.`duree_min` < 42
